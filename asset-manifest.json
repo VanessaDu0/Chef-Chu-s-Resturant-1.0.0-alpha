@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.a44ec42e.chunk.js",
-    "main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.a44ec42e.chunk.js.map",
+    "main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.cc4b4a6d.chunk.js",
+    "main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.cc4b4a6d.chunk.js.map",
     "runtime-main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/runtime-main.c92a4386.js",
     "runtime-main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/runtime-main.c92a4386.js.map",
-    "static/js/2.05e4d56f.chunk.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.05e4d56f.chunk.js",
-    "static/js/2.05e4d56f.chunk.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.05e4d56f.chunk.js.map",
+    "static/js/2.a0704e90.chunk.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.a0704e90.chunk.js",
+    "static/js/2.a0704e90.chunk.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.a0704e90.chunk.js.map",
     "static/js/3.27d45f3a.chunk.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/3.27d45f3a.chunk.js",
     "static/js/3.27d45f3a.chunk.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/3.27d45f3a.chunk.js.map",
     "index.html": "/Chef-Chu-s-Resturant-1.0.0-alpha/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.05e4d56f.chunk.js.LICENSE.txt": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.05e4d56f.chunk.js.LICENSE.txt",
+    "static/js/2.a0704e90.chunk.js.LICENSE.txt": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.a0704e90.chunk.js.LICENSE.txt",
     "static/media/crown.207ae289.svg": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/media/crown.207ae289.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c92a4386.js",
-    "static/js/2.05e4d56f.chunk.js",
+    "static/js/2.a0704e90.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.a44ec42e.chunk.js"
+    "static/js/main.cc4b4a6d.chunk.js"
   ]
 }
