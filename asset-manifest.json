@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.cc4b4a6d.chunk.js",
-    "main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.cc4b4a6d.chunk.js.map",
+    "main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.529f3640.chunk.js",
+    "main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/main.529f3640.chunk.js.map",
     "runtime-main.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/runtime-main.c92a4386.js",
     "runtime-main.js.map": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/runtime-main.c92a4386.js.map",
     "static/js/2.a0704e90.chunk.js": "/Chef-Chu-s-Resturant-1.0.0-alpha/static/js/2.a0704e90.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c92a4386.js",
     "static/js/2.a0704e90.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.cc4b4a6d.chunk.js"
+    "static/js/main.529f3640.chunk.js"
   ]
 }
