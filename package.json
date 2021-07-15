@@ -2,7 +2,7 @@
   "name": "resturant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VanessaDu0.github.io/resturant",
+  "homepage": "https://VanessaDu0.github.io/Chef-Chu-s-Resturant-1.0.0-alpha",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
